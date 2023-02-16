@@ -1,0 +1,15 @@
+{
+  "name": "node_example",
+  "version": "1.0.0",
+  "description": "summa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "balaji",
+  "license": "ISC",
+  "dependencies": {
+    "sequelize": "^6.28.0",
+    "sequelize-cli": "^6.6.0"
+  }
+}
